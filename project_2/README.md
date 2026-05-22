@@ -1,4 +1,4 @@
-# Project 2 - Community Backend Service
+# Community Backend Service
 
 FastAPI 기반 커뮤니티 서비스 백엔드 프로젝트
 
