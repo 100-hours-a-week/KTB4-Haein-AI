@@ -20,19 +20,23 @@ FastAPI 기반 커뮤니티 서비스 백엔드 프로젝트
 
 ```text
 project_2/
-├─ app/
-│  ├─ main.py
-│  ├─ database.py
-│  ├─ models.py
-│  ├─ schemas.py
-│  ├─ routers/
-│  │  ├─ posts.py
-│  │  ├─ comments.py
-│  │  └─ ai.py
-│  └─ services/
-│     └─ ai_service.py
-├─ requirements.txt
-└─ README.md
+├─ 2-1/
+│  └─ HTTP_정리.md
+├─ 2-2/
+│  ├─ app/
+│  │  ├─ main.py
+│  │  ├─ database.py
+│  │  ├─ models.py
+│  │  ├─ schemas.py
+│  │  ├─ routers/
+│  │  │  ├─ posts.py
+│  │  │  ├─ comments.py
+│  │  │  └─ ai.py
+│  │  └─ services/
+│  │     └─ ai_service.py
+│  ├─ README.md
+│  └─ requirements.txt
+
 ```
 
 ---
